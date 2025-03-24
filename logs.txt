@@ -1,0 +1,2 @@
+Cadastrado: ID 1, Patrimônio 159951, Nome KIT PC, Setor CPD
+Movimentado: Patrimônio 159951, Novo Setor POLICLINICA - FARMACIA
