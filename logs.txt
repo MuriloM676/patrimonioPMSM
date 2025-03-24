@@ -1,2 +1,9 @@
+Movimentado: Patrimônio 78963, Novo Setor PATRIMONIO
+Movimentado: Patrimônio 78963, Novo Setor GESTAO
+Movimentado: Patrimônio 78963, Novo Setor SAUDE
+Cadastrado: ID 4, Patrimônio 78963, Nome ULTIMO, Setor TESTE
 Cadastrado: ID 1, Patrimônio 159951, Nome KIT PC, Setor CPD
 Movimentado: Patrimônio 159951, Novo Setor POLICLINICA - FARMACIA
+Cadastrado: ID 2, Patrimônio 1234, Nome TESTENOVO, Setor SAUDE
+Movimentado: Patrimônio 1234, Novo Setor CENTRO
+Cadastrado: ID 3, Patrimônio teste20205, Nome 456654, Setor cpd
